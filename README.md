@@ -1,5 +1,5 @@
-[![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/1*gqZrSNwRFwJEPvAggvoiYA.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy3g3SAtHgw6KvWPaaB5Pjm3FcNVfD4OZ9w7DgiQOyhQwVfa8AdlmxOzvniqbvKt40mA&usqp=CAU))]
-
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*gqZrSNwRFwJEPvAggvoiYA.gif)]
+![image](https://github.com/chianeng/chianeng/assets/102297986/788fe12e-9cdb-4e10-b810-357038fb434b)
 
 <h1 align="center">Hi 👋, I'm Chianeng</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
