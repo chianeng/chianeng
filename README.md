@@ -1,6 +1,3 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*gqZrSNwRFwJEPvAggvoiYA.gif)]
-![image](https://github.com/chianeng/chianeng/assets/102297986/788fe12e-9cdb-4e10-b810-357038fb434b)
-
 <h1 align="center">Hi 👋, I'm Chianeng</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
 <img align="right" alt="Coding" width="400" src=https://akumeninc.com/wp-content/uploads/2020/02/Animation-1.gif">
