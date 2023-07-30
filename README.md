@@ -1,4 +1,5 @@
-[![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/1*gqZrSNwRFwJEPvAggvoiYA.gif](https://github.com/chianeng/chianeng/assets/102297986/49732867-404f-4367-acce-1a2e20b2b290)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*gqZrSNwRFwJEPvAggvoiYA.gif)]
+![image](https://github.com/chianeng/chianeng/assets/102297986/8d4802fb-e302-4b8c-b591-79e26d597424)
 
 <h1 align="center">Hi 👋, I'm Chianeng</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
