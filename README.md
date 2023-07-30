@@ -1,4 +1,4 @@
-[![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/1*gqZrSNwRFwJEPvAggvoiYA.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fdaviddennis02%2Fdevops-tools-every-engineer-should-know-hf2&psig=AOvVaw3t0czxJNAdt3gWh0GRnU6T&ust=1690828221905000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwibss6NiLeAAxX0pycCHYHkCFMQjRx6BAgAEAw))](https://github.com/chianeng/chianeng/assets/102297986/49732867-404f-4367-acce-1a2e20b2b290)
+[![MasterHead]([https://miro.medium.com/v2/resize:fit:1358/1*gqZrSNwRFwJEPvAggvoiYA.gif](https://github.com/chianeng/chianeng/assets/102297986/49732867-404f-4367-acce-1a2e20b2b290)
 
 <h1 align="center">Hi 👋, I'm Chianeng</h1>
 <h3 align="center">A passionate DevOps Engineer</h3>
